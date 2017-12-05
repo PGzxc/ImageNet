@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageNet</string>
+    <string name="glide">Glide用法</string>
+    <string name="example">实例图</string>
+    <string name="universal">Universal用法</string>
+    <string name="volley">volley用法</string>
+    <string name="fresco">fresco用法</string>
+    <string name="picasso">Picasso用法</string>
+</resources>
